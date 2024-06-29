@@ -9,7 +9,7 @@ $ORIGIN globomantics.co.
 )
 
 ; name server RR for the domain
-IN NS ns1.globomantics.co.
+@ IN NS ns1.globomantics.co.
 
 ; Zone hosts go here
 ns1 IN A 127.0.0.1
